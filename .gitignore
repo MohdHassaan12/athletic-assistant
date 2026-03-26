@@ -1,0 +1,12 @@
+bin/
+logs/
+*.o
+*.d
+.DS_Store
+node_modules/
+.next/
+out/
+build/
+.env*
+*.log
+
